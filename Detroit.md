@@ -7,3 +7,4 @@
 - Dine
 - Theatre 
 - Boating
+- fishing
